@@ -11,4 +11,9 @@ You will learn how to:
 
 ## Static map
 
+![alt text](https://github.com/milos-agathon/isochrone_maps/blob/main/img/cycling_ams.png?raw=true)
+
 ## Static panel map
+
+![alt text](https://github.com/milos-agathon/isochrone_maps/blob/main/img/travel_ams.png.png?raw=true)
+
