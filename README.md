@@ -15,5 +15,5 @@ You will learn how to:
 
 ## Static panel map
 
-![alt text](https://github.com/milos-agathon/isochrone_maps/blob/main/img/travel_ams.png.png?raw=true)
+![alt text](https://github.com/milos-agathon/isochrone_maps/blob/main/img/travel_ams.png?raw=true)
 
